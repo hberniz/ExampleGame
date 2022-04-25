@@ -328,8 +328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92a0d58a2204951409be70f52ce286dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  distanceToDie: 8
-  pov: {fileID: 5254890728666275327}
+  distanceToShoot: 7
 --- !u!195 &5254890728666275316
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -364,7 +363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d86002a4c7251424ebfcbba06a15d159, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Bullet_Emitter: {fileID: 5321276166894271749}
   Bullet: {fileID: 1741217726247050438, guid: 8830e75e544458749af8f05cec0f4ecc, type: 3}
   Bullet_Forward_Force: 2000
 --- !u!1 &5254890729122904797
